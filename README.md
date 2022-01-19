@@ -1,6 +1,5 @@
 # EMOtional
 
-mirpr-emotional created by GitHub Classroom
 - EMOtional- Table of content
   * [1. Introduction](#introduction)
   * [2. Why are kids challenging?](#why-are-kids-challenging)
