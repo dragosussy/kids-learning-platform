@@ -14,7 +14,7 @@
 <a name="introduction"/>
 
 ## 1. Introduction
-We all know that children are very emotional and don't hesitate to express their emotion in all the activities they do. The goal of our project is to objectively measure the emotions of preschoolers
+We all know that children are very emotional and do not hesitate to express their emotion in all the activities they do. The goal of our project is to objectively measure the emotions of preschoolers
 following the interaction with some educational activities. At a very young age, they still cannot give written feedback, so the best way to measure user satisfaction is observation.
 Our project allows the login of a preschooler in the application and start some small interactive games after which a report of emotions is established. This report will be automatically sent to the educator.
 
